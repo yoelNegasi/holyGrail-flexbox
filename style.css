@@ -1,0 +1,31 @@
+main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+div {
+  border: solid 1px black;
+  padding: 20px;
+  width: fixed;
+  text-align: center;
+}
+.side {
+  padding: 10px;
+  height: 300px;
+  width: 310px;
+  background-color: rgb(155, 91, 91);
+}
+.middle {
+  width: 600px;
+  background-color: rgb(45, 148, 218);
+}
+header {
+  background-color: rgb(162, 64, 64);
+  text-align: center;
+  border: solid 2px;
+}
+footer {
+  background-color: rgb(162, 64, 64);
+  text-align: center;
+  border: solid 2px;
+}
